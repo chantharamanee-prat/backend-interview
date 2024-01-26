@@ -8,3 +8,7 @@
    - [DNS and how it works?](./internet/dns-and-how-it-works.md)
    - [What is Domain name?](./internet/what-is-domain-name.md)
    - [What is hosting?](./internet/what-is-hosting.md)
+2. Javascript
+   - [Hoisting](./javascript/hoisting.md)
+   - [Scope](./javascript/scope.md)
+   - Closures
