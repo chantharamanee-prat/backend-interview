@@ -1,6 +1,6 @@
 ## How does the internet work?
 
-### Table of content
+### Table of contents
 1. [Overview](#overview)
 2. [Basic Concept](#basic-concept)
 3. [The role of Protocals in Internet](#the-role-of-protocols-in-internet)

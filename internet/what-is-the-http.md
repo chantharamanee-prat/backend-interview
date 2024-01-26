@@ -1,6 +1,6 @@
 ## What is the HTTP
 
-### Table of content
+### Table of contents
 1. [What is HTTP?](#what-is-http)
 2. [What is in HTTP request?](#what-is-in-http-request)
 3. [What is an HTTP method?](#what-is-an-http-method)
