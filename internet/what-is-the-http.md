@@ -26,7 +26,7 @@ Each HTTP request made across the Internet carries with it a series of encoded d
 An HTTP method, also known as an HTTP verb, is like telling the internet what you want to do. It's the action your computer is asking for when it talks to a server. For instance, **GET** is like asking for information, like opening a webpage. On the other hand, **POST** is like telling the server something, like when you submit a form with your username and password on a website.
 
 ### What are HTTP request headers?
-![HTTP request body](../picture/http-request-headers.png)
+![HTTP request body](../images/http-request-headers.png)
 HTTP headers are like text notes with important information **in pairs**. They come with every **request and response** in web communication. These notes share essential details, such as the type of browser being used and the data that's being asked for.
 
 ### What is in an HTTP request body?
@@ -51,7 +51,7 @@ HTTP status codes are three-digit numbers that tell you if an HTTP request was s
 - 5xx Server Error
 
 ### What are HTTP response headers?
-![HTTP response headers](../picture/http-response-headers.png)
+![HTTP response headers](../images/http-response-headers.png)
 
 Just like when you ask for something on the internet and get a response, that response also comes with headers. These headers carry important details, like the language and format of the information that's included in the response. It's a way for the server to let your device know how to understand and process the data it's sending back to you.
 

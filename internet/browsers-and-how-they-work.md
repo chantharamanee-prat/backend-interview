@@ -32,7 +32,7 @@ In a nutshell, the goal is to make websites load fast and respond quickly to use
 When you want to open a web page by typing a website address, clicking a link, or submitting a form, that's called **navigation**. Making this step fast is a goal for a smooth web experience. Normally, it's quick, but things like delays caused by slow connections or limited data can slow it down. So, making navigation fast is an aim for better performance on the web.
 
 #### DNS Lookup
-![DNS Lookup](../picture/dns-lookup.jpeg)
+![DNS Lookup](../images/dns-lookup.jpeg)
 
 When you want to visit a website, the first thing your browser does is find where the website's information is stored. For example, if you go to https://example.com, your browser needs to figure out the location of the webpage on a server, identified by an IP address like 93.184.216.34. This is done through a process called DNS lookup.
 
@@ -44,7 +44,7 @@ When your browser knows the location of a website (its IP address), it connects 
 This handshake involves three messages, often called "SYN-SYN-ACK." It's a way for your browser and the server to agree on how they will communicate. So, even before your request is sent, there are three messages going back and forth to set up the connection.
 
 #### TLS Negotiation
-![TLS Handshake](../picture/tls-handshake.jpeg)
+![TLS Handshake](../images/tls-handshake.jpeg)
 
 When your browser wants to connect to a website securely using HTTPS, it goes through an additional process called TLS handshake. This involves figuring out how to encrypt the communication, confirming the server's identity, and ensuring a secure connection. This step takes five more rounds of communication with the server before your actual request for content is sent.
 
@@ -89,7 +89,7 @@ Once your browser gets the first piece of data from the server, it starts turnin
 The DOM is like the browser's internal version of the webpage's structure. It can also be changed using JavaScript. Even if the whole webpage is larger than the initial 14KB, the browser begins parsing and tries to show a basic version of the page based on the data it has. For faster page loading, it's essential to include the necessary HTML and CSS in the first 14KB so that the browser can start displaying the page or at least a basic template. However, nothing appears on the screen until the HTML, CSS, and JavaScript are fully parsed.
 
 #### Building the DOM tree
-![DOM Tree](../picture/dom.gif)
+![DOM Tree](../images/dom.gif)
 
 The critical rendering path involves [five steps](https://developer.mozilla.org/en-US/docs/Web/Performance/Critical_rendering_path). First, the browser processes the HTML markup and creates the DOM tree, which describes the document's content. The HTML is tokenized, and well-formed documents are parsed faster. The DOM tree reflects the relationships between elements, with the <html> element being the root.
 
@@ -152,7 +152,7 @@ When different parts of a webpage are drawn on separate layers and they overlap,
 As the page keeps loading, things like late-arriving images can cause reflows, which trigger a repaint and a re-composite. If we had defined the dimensions of our image beforehand, there wouldn't be a reflow, and only the necessary layer would be repainted and composited if needed. But since we didn't include the image dimensions, when the image arrives, the rendering process goes back to the layout steps and starts over from there.
 
 ### Interactivity
-![Process Debugging](../picture/process-debugging.png)
+![Process Debugging](../images/process-debugging.png)
 
 After the main thread finishes painting the webpage, it might not be immediately ready for user interactions, especially if there's JavaScript involved. If JavaScript is correctly deferred and only runs after the onload event, the main thread may be busy with parsing, compiling, and executing it. Time to Interactive (TTI) measures how long it takes for the page to become interactive after the first request.
 
