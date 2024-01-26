@@ -6,5 +6,5 @@
    - [What is the HTTP?](./internet/what-is-the-http.md)
    - [Browsers and how they work?](./internet/browsers-and-how-they-work.md)
    - [DNS and how it works?](./internet/dns-and-how-it-works.md)
-   - What is Domain name?
+   - [What is Domain name?](./internet/what-is-domain-name.md)
    - What is hosting?
