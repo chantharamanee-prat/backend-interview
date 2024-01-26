@@ -2,9 +2,9 @@
 
 ## Table of content
 1. Internet
-1.1 How does the internet work?
-1.2 What is the HTTP?
-1.3 Browsers and how they work?
-1.4 DNS and how it works?
-1.5 What is Domain name?
-1.6 What is hosting?
+   - [How does the internet work?](./internet/how-does-the-internet-work.md)
+   - What is the HTTP?
+   - Browsers and how they work?
+   - DNS and how it works?
+   - What is Domain name?
+   - What is hosting?
