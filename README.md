@@ -1,4 +1,4 @@
-# This repository has been created to facilitate preparation for interview questions pertaining to the role of **Backend Developer**.
+# This repository contains the basic knowledge for the role of Backend Developer.
 
 ## Table of content
 1. Internet
