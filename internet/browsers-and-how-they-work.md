@@ -45,6 +45,7 @@ This handshake involves three messages, often called "SYN-SYN-ACK." It's a way f
 
 #### TLS Negotiation
 ![TLS Handshake](../picture/tls-handshake.jpeg)
+
 When your browser wants to connect to a website securely using HTTPS, it goes through an additional process called TLS handshake. This involves figuring out how to encrypt the communication, confirming the server's identity, and ensuring a secure connection. This step takes five more rounds of communication with the server before your actual request for content is sent.
 
 So, before your browser can ask for the website's information, there are three steps: DNS lookup, TCP handshake, and TLS handshake involving five more steps. While this adds some time, having a secure connection is important because it protects the information being sent between your browser and the server from being understood by outsiders. After these eight rounds, your browser is finally ready to make the request for the webpage.
@@ -152,6 +153,7 @@ As the page keeps loading, things like late-arriving images can cause reflows, w
 
 ### Interactivity
 ![Process Debugging](../picture/process-debugging.png)
+
 After the main thread finishes painting the webpage, it might not be immediately ready for user interactions, especially if there's JavaScript involved. If JavaScript is correctly deferred and only runs after the onload event, the main thread may be busy with parsing, compiling, and executing it. Time to Interactive (TTI) measures how long it takes for the page to become interactive after the first request.
 
 In simpler terms, if the main thread is busy with JavaScript tasks, the page won't respond quickly to user interactions. For example, even if the page loads quickly, a large JavaScript file might take a while to download, making scrolling or other actions unresponsive until the script is fully processed. This can lead to a poor user experience. It's essential to avoid keeping the main thread occupied with lengthy JavaScript tasks to ensure a smoother interaction for users.
