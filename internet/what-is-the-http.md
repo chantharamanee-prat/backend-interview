@@ -1,15 +1,15 @@
 ## What is the HTTP
 
 ### Table of content
-1. What is HTTP?
-2. What is in HTTP request?
-3. What is an HTTP method?
-4. What are HTTP request headers?
-5. What is in an HTTP request body?
-6. What is in an HTTP response?
-7. What’s an HTTP status code?
-8. What are HTTP response headers?
-9. What is in an HTTP response body?
+1. [What is HTTP?](#what-is-http)
+2. [What is in HTTP request?](#what-is-in-http-request)
+3. [What is an HTTP method?](#what-is-an-http-method)
+4. [What are HTTP request headers?](#what-are-http-request-headers)
+5. [What is in an HTTP request body?](#what-is-in-an-http-request-body)
+6. [What is in an HTTP response?](#what-is-in-an-http-response)
+7. [What’s an HTTP status code?](#whats-an-http-status-code)
+8. [What are HTTP response headers?](#what-are-http-response-headers)
+9. [What is in an HTTP response body?](#what-is-in-an-http-response-body)
 
 ### What is HTTP?
 HTTP, or the Hypertext Transfer Protocol, is like the backbone of the internet, especially the World Wide Web. Its job is to make sure webpages load when you click on links. Think of it as a set of rules that computers follow to share information. When you want to see a webpage, your computer talks to a server, and the server sends back the webpage you asked for. It's a crucial part of how the internet works!
