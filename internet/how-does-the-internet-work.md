@@ -1,9 +1,9 @@
 ## How does the internet work?
 
 ### Table of content
-1. Overview
-2. Basic Concept
-3. The role of Protocals in Internet
+1. [Overview](#overview)
+2. [Basic Concept](#basic-concept)
+3. [The role of Protocals in Internet](#the-role-of-protocols-in-internet)
 
 ### Overview
 The internet is like a giant web that connects computers all around the world. Think of it as a highway with special stops called **routers**. When you send something on the internet, it's like sending a package. The package is broken into tiny pieces called packets and travels from your computer to a router, then to the next one, until it reaches its destination.
@@ -31,7 +31,7 @@ some important words to help you understand how it works:
 
 8. **SSL/TLS**: Special guards that keep conversations between your computer and a website secret and safe.
 
-## The role of Protocols in internet
+### The role of Protocols in internet
 1. **IP**: It helps messages find their way to the right place on the internet.
 
 2. **TCP and UDP**: They make sure messages get there safely and quickly.
