@@ -40,7 +40,7 @@ However, as code grows, using callbacks can lead to a pattern known as "callback
 
 ### Promise & Async / Await
 
-Certainly! In JavaScript, a `Promise` is an object that represents the eventual completion or failure of an asynchronous operation and its resulting value. It's a way to handle asynchronous code in a more structured and readable manner.
+In JavaScript, a `Promise` is an object that represents the eventual completion or failure of an asynchronous operation and its resulting value. It's a way to handle asynchronous code in a more structured and readable manner.
 
 Here's a simple breakdown:
 
