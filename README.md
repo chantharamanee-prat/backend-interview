@@ -27,3 +27,4 @@
    - [Primitive types](./typescript/primitive-types.md)
    - [Object types](./typescript/object-types.md)
    - [Other types](./typescript/other-types.md)
+   - [Generic](./typescript/generic.md)

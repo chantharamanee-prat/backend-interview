@@ -1,6 +1,6 @@
 ## Object Types
 
-Certainly! Let's go through each of these TypeScript concepts:
+Let's go through each of these TypeScript concepts:
 
 1. **Interface:**
    - An interface in TypeScript is a way to define a contract for an object's structure. It specifies the names and types of properties or methods an object should have.

@@ -1,6 +1,6 @@
 ## Other Types
 
-Certainly! Let's go through the concepts of `any`, `object`, `unknown`, and `never` in TypeScript:
+Let's go through the concepts of `any`, `object`, `unknown`, and `never` in TypeScript:
 
 1. **`any`:**
    - `any` is a type that represents a dynamic or untyped value. It essentially opts out of the static type checking that TypeScript provides.
