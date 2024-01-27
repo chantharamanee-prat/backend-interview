@@ -14,8 +14,8 @@ function identity<T>(arg: T): T {
 }
 
 // Usage
-let result1: number = identity(5);       // T is inferred as number
-let result2: string = identity("hello"); // T is inferred as string
+let result1: number = identity<number>(5);       // T is inferred as number
+let result2: string = identity<string>("hello"); // T is inferred as string
 ```
 
 In this example, `identity` is a generic function that can accept any type (`T`). The type parameter `T` is determined at the time of calling the function.
