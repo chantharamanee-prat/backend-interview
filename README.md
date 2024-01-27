@@ -23,3 +23,7 @@
    - [WeakMap & WeakSet](./javascript/weakmap-weakset.md)
    - [Garbage Collector](./javascript/garbage-collector.md)
    - [This](./javascript/this.md)
+3. Typescript
+   - [Primitive types](./typescript/primitive-types.md)
+   - [Object types](./typescript/object-types.md)
+   - [Other types](./typescript/other-types.md)
