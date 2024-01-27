@@ -11,6 +11,7 @@
 2. Javascript
    - [Hoisting](./javascript/hoisting.md)
    - [Scope](./javascript/scope.md)
+   - [Lexical Scope](./javascript/lexical-scope.md)
    - [Closures](./javascript/closure.md)
    - [Asynchronous](./javascript/asynchronous.md)
    - [Equality](./javascript/equality.md)
