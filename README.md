@@ -30,3 +30,22 @@
    - [Generic](./typescript/generic.md)
 4. Node.js
    - [NPM](./nodejs/npm.md)
+   - CommonJS vs ES module
+   - Event Loop
+   - Threads
+   - Stream
+5. Database
+   - Relational
+     - MySQL
+     - PostgreSQL
+   - NoSQL
+     - Document
+     - Key Value
+6. Authentication
+7. Cache
+8. Software Design
+9. Architectural Patterns
+10. APIs
+    - RESTful
+    - GraphQL
+    - gRPC
