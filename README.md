@@ -13,6 +13,8 @@
    - [Scope](./javascript/scope.md)
    - [Lexical Scope](./javascript/lexical-scope.md)
    - [Closures](./javascript/closure.md)
+   - [Object.prototype](./javascript/object-prototype.md)
+   - [Classes](./javascript/classes.md)
    - [Asynchronous](./javascript/asynchronous.md)
    - [Equality](./javascript/equality.md)
    - [Array Iterative Methods](./javascript/array-iterative-methods.md)
