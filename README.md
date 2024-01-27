@@ -15,5 +15,6 @@
    - [Asynchronous](./javascript/asynchronous.md)
    - [Equality](./javascript/equality.md)
    - [Array Iterative Methods](./javascript/array-iterative-methods.md)
-   - Map
-   - Set
+   - [Map](./javascript/map.md)
+   - [Set](./javascript/set.md)
+   - [WeakMap & WeakSet](./javascript/weakmap-weakset.md)
