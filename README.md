@@ -1,6 +1,6 @@
 # This repository contains the basic knowledge for the role of Backend Developer.
 
-## Table of content
+## Table of contents
 1. Internet
    - [How does the internet work?](./internet/how-does-the-internet-work.md)
    - [What is the HTTP?](./internet/what-is-the-http.md)
@@ -21,3 +21,4 @@
    - [Map](./javascript/map.md)
    - [Set](./javascript/set.md)
    - [WeakMap & WeakSet](./javascript/weakmap-weakset.md)
+   - [Garbage Collector](./javascript/garbage-collector.md)
