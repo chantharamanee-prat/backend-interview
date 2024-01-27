@@ -12,7 +12,7 @@
    - [Hoisting](./javascript/hoisting.md)
    - [Scope](./javascript/scope.md)
    - [Closures](./javascript/closure.md)
-   - Asynchronous JavaScript
+   - [Asynchronous](./javascript/asynchronous.md)
    - Array
    - Map
    - Set
