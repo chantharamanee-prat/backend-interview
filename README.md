@@ -13,6 +13,7 @@
    - [Scope](./javascript/scope.md)
    - [Closures](./javascript/closure.md)
    - [Asynchronous](./javascript/asynchronous.md)
-   - Array
+   - [Equality](./javascript/equality.md)
+   - [Array Iterative Methods](./javascript/array-iterative-methods.md)
    - Map
    - Set
