@@ -11,4 +11,8 @@
 2. Javascript
    - [Hoisting](./javascript/hoisting.md)
    - [Scope](./javascript/scope.md)
-   - Closures
+   - [Closures](./javascript/closure.md)
+   - Asynchronous JavaScript
+   - Array
+   - Map
+   - Set
